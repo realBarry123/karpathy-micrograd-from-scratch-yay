@@ -1,2 +1,4 @@
 # karpathy-micrograd-from-scratch-yay
-Micrograd from scratch. Yay!
+Following my brother's advice, I'm going along with Andrej Karpathy's tutorial for building backpropagation from scratch.
+
+-> https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2
