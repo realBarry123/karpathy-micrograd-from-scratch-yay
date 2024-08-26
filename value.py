@@ -102,4 +102,3 @@ class Value:
         self.grad = 1.0
         for node in reversed(topo):
             node._backward()
-
